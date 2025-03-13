@@ -1,3 +1,5 @@
+-- Author: Caml from Silvermoon-EU
+
 -- Initialize which mobs to include as priority targets here
 -- Using names instead of IDs primarily because I'm lazy and it's easier to read / change in game, assume performance loss is negligible (?)
 -- Keeping old seasons data in case the dungeons are ever brought back
