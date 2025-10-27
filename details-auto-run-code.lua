@@ -24,7 +24,7 @@ Details.vid_npcs_names = {
     ["Elaena Emberlanz"]=true,
     ["Sergeant Shaynemail"]=true,
     ["Taener Duelmal"]=true,
-    ["Ardent Paladin"]=true,
+    ["Arathi Knight"]=true,
     ["Sir Braunpyke"]=true,
     
     -- Ara-Kara
@@ -51,6 +51,7 @@ Details.vid_npcs_names = {
     -- Tazavesh: Gambitr
     ["Coastwalker Goliath"]=true,
     ["Invigorating Fish Stick"]=true,
+    ["Murkbrine Scalebinder"]=true,
     ["Wandering Pulsar"]=true,
     ["Adorned Starseer"]=true,
     
